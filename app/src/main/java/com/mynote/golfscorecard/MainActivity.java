@@ -71,7 +71,6 @@ public class MainActivity extends ListActivity {
 
             mListAdapter.notifyDataSetChanged();
             return true;
-
         }
 
         return super.onOptionsItemSelected(item);
