@@ -18,9 +18,11 @@ public class Hole {
 
     public void setLabel(String label) {
         mLabel = label;
+
     }
 
     public int getStrokeCount() {
+
         return mStrokeCount;
     }
 
